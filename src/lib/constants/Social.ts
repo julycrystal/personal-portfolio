@@ -11,37 +11,31 @@ import Twitter from "~icons/bi/twitter-x"
 
 export const SOCIAL_LINKS = [
   {
-    link: "https://github.com/MrMissx",
+    link: "https://github.com/julycrystal",
     hoverColor: "hover:text-gray-800 dark:hover:text-gray-200",
     label: "Github",
     icon: Github
   },
   {
-    link: "https://t.me/MrMissx",
+    link: "https://t.me/julycrystal",
     hoverColor: "hover:text-blue-500 dark:hover:text-blue-500",
     label: "Telegram",
     icon: Telegram
   },
   {
-    link: "mailto:hi@mrmiss.dev",
-    hoverColor: "hover:text-gray-800 dark:hover:text-gray-200",
-    label: "Email",
-    icon: Email
-  },
-  {
-    link: "https://www.linkedin.com/in/gaungr",
+    link: "https://www.linkedin.com/in/julycrystal",
     hoverColor: "hover:text-blue-500 dark:hover:text-blue-500",
     label: "Linkedin",
     icon: Linkedin
   },
   {
-    link: "https://instagram.com/gaungrb",
+    link: "https://instagram.com/julycrystal",
     hoverColor: "hover:text-red-400 dark:hover:text-red-400",
     label: "Instagram",
     icon: Instagram
   },
   {
-    link: "https://twitter.com/mrmissx",
+    link: "https://twitter.com/julycrystal",
     hoverColor: "hover:text-gray-800 dark:hover:text-gray-200",
     label: "Twitter",
     icon: Twitter

@@ -14,7 +14,7 @@
   const DESCRIPTION = "Visit my personal site for my portfolio and blog posts."
   const TWITTER_HANDLE = "@mrmissx"
 
-  const name = "Gaung Ramadhan"
+  const name = "Julycrystal"
 
   let path = $derived($page.url.pathname.substring(1))
 </script>
@@ -22,7 +22,6 @@
 <svelte:head>
   <title>{path === "" ? name : `${name} | ${path}`}</title>
 
-  <meta name="keywords" content="gaung, gaung ramadhan, mrmiss" />
   <meta name="description" content={DESCRIPTION} />
   <link rel="canonical" href={$page.url.href} />
 

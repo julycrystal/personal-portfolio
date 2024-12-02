@@ -28,7 +28,7 @@
       <li>
         <a
           class="text-blue-700 dark:text-blue-400"
-          href="https://www.paypal.me/gaungr"
+          href="https://www.paypal.me/julycrystal"
           rel="nofollow"
         >
           Paypal
