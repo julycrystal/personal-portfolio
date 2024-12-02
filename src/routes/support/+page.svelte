@@ -19,32 +19,6 @@
       Thanks for stopping by. Your support helps keep my projects running and, yes, it even pays my
       server bills (and maybe a coffee or two)! Every little bit counts.
     </p>
-    <ul class="list-disc list-outside mt-3 text-left">
-      <li>
-        <a class="text-blue-700 dark:text-blue-400" href="https://saweria.co/mrmiss" rel="nofollow">
-          Saweria
-        </a>
-      </li>
-      <li>
-        <a
-          class="text-blue-700 dark:text-blue-400"
-          href="https://www.paypal.me/julycrystal"
-          rel="nofollow"
-        >
-          Paypal
-        </a>
-      </li>
-      <li>
-        Bitcoin: <span class="text-blue-700 dark:text-blue-400 break-all">
-          bc1qk43zcj7yzlwdj5xg6xsj5frqt7cqx8jkqwxmpq
-        </span>
-      </li>
-      <li>
-        Ethereum: <span class="text-blue-700 dark:text-blue-400 break-all">
-          0x72599B85431728A4e2AD73826Cc076fBD689335D
-        </span>
-      </li>
-    </ul>
   </div>
 </section>
 

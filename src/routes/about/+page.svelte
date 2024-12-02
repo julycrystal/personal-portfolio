@@ -24,7 +24,7 @@
       </p>
       <p>
         Wanna see what I'm up to? Check out my
-        <a class="text-blue-500 hover:underline" href="https://blog.mrmiss.dev"> blog</a>.
+        <a class="text-blue-500 hover:underline" href="https://blog.julycrystal.portfolio"> blog</a>.
       </p>
       <p>
         Feel free to reach out - contact info's on the <a

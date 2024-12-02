@@ -33,7 +33,7 @@
     </div>
     <div in:scale={{ delay: 1300 }} class="hover:scale-110 ease-in-out duration-200">
       <a
-        href="https://blog.mrmiss.dev"
+        href="https://blog.julycrystal.portfolio"
         class="dark:bg-gray-200 bg-zinc-800 text-white dark:text-gray-800 p-2 rounded"
         aria-label="Blog"
         role="button"

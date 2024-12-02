@@ -12,7 +12,7 @@
   let { children } = $props()
 
   const DESCRIPTION = "Visit my personal site for my portfolio and blog posts."
-  const TWITTER_HANDLE = "@mrmissx"
+  const TWITTER_HANDLE = "@julycrystal"
 
   const name = "Julycrystal"
 

@@ -22,11 +22,8 @@
     transition:scale
     class="fixed bottom-14 right-14 bg-gray-950 text-primary-light rounded-md opacity-100 translate-y-0 flex flex-col px-4 py-2"
   >
-    <a class="py-2 hover:underline" target="_blank" href="https://status.mrmiss.dev"
-      >Service Status</a
-    >
     <a class="py-2 hover:underline" href="/support">Support</a>
-    <a class="py-2 hover:underline" href="https://blog.mrmiss.dev">Blog</a>
+    <a class="py-2 hover:underline" href="/blog">Blog</a>
   </div>
 {/if}
 <button

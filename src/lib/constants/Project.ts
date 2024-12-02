@@ -12,14 +12,14 @@ export const PROJECT: Project[] = [
     description: "Simple and free pastebin service",
     stacks: ["Go", "htmx", "PostgreSQL"],
     url: "https://stashbin.xyz",
-    source: "https://github.com/mrmissx/stashbin"
+    source: "https://github.com/julycrystal/personal-portfolio"
   },
   {
     title: "Landing Page",
     description: "Personal landing page. The page you're currently on.",
     stacks: ["Svelte kit", "Tailwind CSS"],
-    url: "https://mrmiss.dev",
-    source: "https://github.com/mrmissx/landing"
+    url: "",
+    source: "https://github.com/julycrystal/personal-portfolio"
   },
   {
     title: "Anjani",
@@ -38,8 +38,8 @@ export const PROJECT: Project[] = [
     title: "Telegram Forwarder",
     description: "Bot to forward message form channel/group.",
     stacks: ["Python"],
-    url: "https://github.com/mrmissx/Telegram_Forwarder",
-    source: "https://github.com/mrmissx/Telegram_Forwarder"
+    url: "https://github.com/julycrystal/personal-portfolio",
+    source: "https://github.com/julycrystal/personal-portfolio"
   },
   {
     title: "Spam Detection API",

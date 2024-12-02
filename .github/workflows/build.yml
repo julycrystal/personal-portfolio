@@ -7,7 +7,7 @@ on:
 
 jobs:
   publish-ghcr:
-    if: startsWith(github.ref, 'refs/tags/') && github.repository == 'mrmissx/landing'
+    if: startsWith(github.ref, 'refs/tags/') && github.repository == 'julycrystal/personal-portfolio'
     runs-on: ubuntu-latest
 
     permissions:
